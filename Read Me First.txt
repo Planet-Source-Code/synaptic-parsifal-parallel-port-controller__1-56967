@@ -1,0 +1,21 @@
+Parallel Port Controller - By Josh Gaby
+
+You will need the DLL inpout32.dll, if you dont allready have it you can get it free from:
+
+http://www.logix4u.net/inpout32_source_and_bins.zip
+
+it comes with source code for Borland C++, VC and VB.
+
+This program is copywrited, if you wish to utilise it in your own work
+you must give credit where credit is due, it would also be nice if you
+could send me a link to where I can see what you have done with my work.
+
+My email address is:
+
+bstdjnky@hotmail.com
+
+Also feel free to send me an email with any questions or comments.
+
+If you like it or find it usefull then please to vote for me
+
+Josh Gaby
